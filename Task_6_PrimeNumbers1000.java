@@ -21,7 +21,7 @@ public class Task_6_PrimeNumbers1000 {
 
 			}
 			if (count == 2) {// Only twice the number should be divisible with remainder being zero
-				System.out.print(pNum + " ");
+				System.out.println(pNum + " ");
 			}
 
 		}
